@@ -6,6 +6,8 @@ public class showFPS : MonoBehaviour
 {
     public Text fpsText;
     public float deltaTime;
+    public float dABC;
+
 
     void Update()
     {
